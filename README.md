@@ -1,135 +1,313 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=A1Glitch&fontSize=70&theme=darkviolet" alt="Header Banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366F1,100:8B5CF6&height=280&section=header&text=Monther%20Khataibeh&fontSize=60&fontColor=E4E4E7&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Engineer%20%7C%20Red%20Teamer%20%7C%20Exploit%20Developer&descAlignY=55&descSize=18&descColor=C4B5FD" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Master+in+Cybersecurity;Red+Teamer+%26+Exploit+Developer;AI+Security+Engineer;Building+Cyber+Over+Corp" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Master%20in%20Cybersecurity-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Location-Jordan-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
+
+<br/><br/>
+
+<a href="https://github.com/A1GCH-afk">
+  <img src="https://img.shields.io/badge/Cyber%20Over%20Corp-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7&labelColor=0D1117&color=1a1b27" />
+</a>
+<a href="https://linkedin.com/in/monther-khataibeh">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:montherkhataibah@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/A1GCH-afk">
+  <img src="https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=A1GCH-afk&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/A1GCH-afk?style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=github&logoColor=white&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/A1GCH-afk?style=for-the-badge&color=A855F7&labelColor=0D1117&logo=github&logoColor=white&label=STARS" />
+
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9A4AFF&center=true&vCenter=true&width=500&lines=Master+in+Cybersecurity;Red+Teamer+%26+Exploit+Dev;AI+Security+Engineer;Local-First+Tool+Developer" alt="Typing Animation" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Degree-Master%20in%20Cybersecurity-9A4AFF?style=flat-square&logo=academia" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Jordan-blue?style=flat-square&logo=googlemaps" alt="Location" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/A1GCH-afk">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=A1GCH-afk&color=9a4aff&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/A1GCH-afk?label=Followers&style=flat-square&color=9a4aff" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/A1GCH-afk?label=Total%20Stars&style=flat-square&color=9a4aff" alt="Stars" />
-</p>
 
 ---
 
-## About Me
+## About
 
-I am a Master in Cybersecurity graduate and an advanced security researcher specializing in Red Teaming, Active Directory exploitation, and Exploit Development. My core engineering philosophy focuses on building robust, high-performance, local-first architectures with minimal external dependencies.
+> Cybersecurity engineer operating at the intersection of **Advanced Penetration Testing**, **Active Directory exploitation**, and **evasion engineering** — with a builder's mindset toward local-first, low-dependency tooling.
 
-Beyond classical security, I actively research the intersection of AI and cybersecurity—specifically in fine-tuning large language models for security tasks, auditing autonomous agents, and hardening systems against prompt injection attacks.
+- **Offensive Security Engineering** — full attack-chain operations spanning external recon, initial access, Active Directory lateral movement (Kerberoasting, AS-REP Roasting, Shadow Credentials, ACL abuse), and post-exploitation evasion against modern EDR/AV stacks.
+- **Cybersecurity Tool Development** — designing local-first, low-dependency security tooling built to run fully offline in operator environments, with zero telemetry and no cloud lock-in.
+- **AI / ML Security** — fine-tuning LLMs for offensive security workflows, researching prompt injection and multi-agent trust-boundary failures, and building AI-assisted triage pipelines for red team operations.
+- **Infrastructure & Systems** — Linux-first daily driver, with a standing interest in hardware-level exploitation and chaos/embedded computing.
 
-- **Current Focus:** Advanced penetration testing, evasion techniques, and enterprise security architecture.
-- **Philosophy:** "A1 in everything I do. Finding the glitches others miss."
-- **Interests:** Nonlinear dynamics, chaos computing architectures, and secure systems engineering.
+**Open to:**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Red%20Teaming%20Consultations-6366F1?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Advanced%20Penetration%20Testing-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AI%20Security%20Integrations-A855F7?style=for-the-badge&labelColor=0D1117" />
+
+</div>
 
 ---
 
 ## Tech Stack
 
-### Core Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-</p>
+<div align="center">
 
-### Frontend & UI (Lightweight / Local-First)
-<p align="left">
-  <img src="https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white" alt="HTMX" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</p>
+**Languages**
 
-### Backend, Frameworks & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux_Mint-9BBC49?style=flat-square&logo=linux-mint&logoColor=white" alt="Linux Mint" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,go&theme=dark" />
 
-### Offensive Security Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/BloodHound-Assessment-black?style=flat-square" alt="BloodHound" />
-  <img src="https://img.shields.io/badge/Certipy-Active_Directory-blue?style=flat-square" alt="Certipy" />
-  <img src="https://img.shields.io/badge/bloodyAD-PrivEsc-darkred?style=flat-square" alt="bloodyAD" />
-  <img src="https://img.shields.io/badge/pywhisker-Shadow_Credentials-orange?style=flat-square" alt="pywhisker" />
-</p>
+**Frontend & UI** — no Node.js, low-dependency by design
+
+<img src="https://skillicons.dev/icons?i=htmx,tailwind&theme=dark" />
+
+**Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=fastapi,python&theme=dark" />
+
+**Environment**
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git&theme=dark" />
+
+**Security & Assessment**
+
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
+<img src="https://img.shields.io/badge/BloodHound-6366F1?style=for-the-badge&logo=graphviz&logoColor=white" />
+<img src="https://img.shields.io/badge/Certipy-8B5CF6?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/bloodyAD-A855F7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/pywhisker-6366F1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/WinPEAS-8B5CF6?style=for-the-badge&logoColor=white" />
+
+</div>
 
 ---
 
 ## AI / ML & Security Expertise
 
-| Domain | Proficiency | Technical Focus / Details |
-| :--- | :--- | :--- |
-| **LLM Exploitation & Security** | Advanced | Prompt Injection payloads, Agent vulnerability assessment, Honeypots |
-| **Active Directory Attacks** | Advanced | AS-REP Roasting, Shadow Credentials, PKI abuse, Privilege Escalation |
-| **Security Tool Engineering** | Advanced | Local-first dashboards, automated enumeration scripts, highly scalable backends |
-| **Model Fine-Tuning** | Intermediate | Customizing Llama models for specialized security auditing and workflows |
+| Domain | Proficiency | Details |
+|---|---|---|
+| LLM Exploitation | Advanced | Prompt injection & multi-agent trust-boundary abuse — research surfaced in the **AgentOver** lab machine |
+| Security Automation | Advanced | Fine-tuning Llama-family models for offensive security tasks and tool-augmented agent pipelines |
+| Active Directory Attacks | Advanced | Kerberoasting, AS-REP Roasting, Shadow Credentials, ACL & DACL abuse, delegation attacks |
+| Evasion Engineering | Advanced | AV/EDR evasion techniques, payload obfuscation, detection-aware tradecraft |
+| Adversary Emulation | Intermediate | C2 concepts, red team infrastructure design |
+| ML-Assisted Recon | Intermediate | LLM-driven attack-surface triage and reporting pipelines |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><b>PentNote (v1.0.0) — Security Operator Dashboard</b></summary>
-<br>
+<summary><strong>PentNote — v1.0.0</strong></summary>
 
-A production-ready, lightweight command-line tool and local-first web dashboard designed specifically for offensive security operators. Built to avoid massive Node.js dependency trees while retaining dynamic frontend capabilities.
+<br/>
+
+A production-ready, lightweight command-line and local-first web dashboard for security operators, built with **FastAPI**, **HTMX**, and **Tailwind CSS**.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| FastAPI, HTMX, Tailwind | Single Operator | Sub-millisecond rendering | Local storage isolation | Streamlined note-taking | [View Repo](https://github.com/A1GCH-afk/PentNote) |
+|---|---|---|---|---|---|
+| Python, FastAPI, HTMX, Tailwind CSS, SQLite | Single-operator to small-team engagements | Sub-100ms local dashboard rendering, zero external network calls | Local-first, zero telemetry, atomic note writes | Consolidates parser output and engagement notes into one operator-facing surface | [PentNote](https://github.com/A1GCH-afk/PentNote) |
 
-### Technical Implementation
-- Eliminated heavy JavaScript frameworks by utilizing HTMX for real-time dashboard updates.
-- Fast, secure local SQLite state persistence, maximizing operation opsec.
+PentNote centralizes tool output, host findings, and operator notes into a single local dashboard, avoiding the sprawl of scattered text files and screenshots typical of manual engagement note-taking. It is built with a strict no-Node.js, low-dependency philosophy — HTMX and Tailwind are served statically, and the backend runs entirely on a local FastAPI instance with no external service dependencies, making it suitable for isolated or air-gapped assessment environments.
+
 </details>
+
+<details>
+<summary><strong>AgentOver — Hack The Box Lab Machine</strong></summary>
+
+<br/>
+
+A specialized lab machine focused on **AI prompt injection** and exploitation of vulnerable, tool-augmented AI agents.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| Python, LLM agent framework, Docker | Single-host HTB lab environment | N/A — lab environment | Demonstrates prompt injection and agent trust-boundary failures | Teaches practical exploitation of AI agent attack surface | [AgentOver](https://github.com/A1GCH-afk/AgentOver) |
+
+AgentOver simulates a realistic deployment of an autonomous AI agent wired into internal tooling, and walks an operator through chaining a prompt injection foothold into full agent-privilege abuse. The machine is designed to illustrate how classic web/API vulnerabilities compound with emerging LLM-agent trust boundaries — a class of vulnerability increasingly relevant to enterprises adopting agentic AI.
+
+</details>
+
+<details>
+<summary><strong>CraftShell — Hack The Box Lab Machine</strong></summary>
+
+<br/>
+
+A realistic lab environment demonstrating **Remote Code Execution (RCE)** via a Craft CMS vulnerability chain.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| PHP, Craft CMS, Docker | Single-host HTB lab environment | N/A — lab environment | Demonstrates CVE-driven RCE and CMS plugin attack surface | Illustrates real-world CMS/plugin supply-chain exposure | [CraftShell](https://github.com/A1GCH-afk/CraftShell) |
+
+CraftShell reproduces a disclosed Craft CMS RCE vulnerability chain in a safe, containerized lab, taking an operator from unauthenticated recon through to a full remote shell. The machine emphasizes methodical CVE research and exploit adaptation over point-and-click tooling, reinforcing the underlying mechanics of the vulnerability class rather than a single scripted exploit.
+
+</details>
+
+---
+
+## Experience
+
+### Co-Founder & Cybersecurity Lead — Cyber Over Corp
+**[Insert Date] – Present**
+
+Leading security architecture and the technical convergence of Cybersecurity, IoT, and AI within the organization.
+
+- Enterprise risk mitigation and threat modeling across client and internal infrastructure
+- Local-first, secure application design and architecture review
+- Red team engagement leadership and technical mentorship
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Red%20Teaming-6366F1?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Tool%20Development-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Secure%20Architecture-A855F7?style=flat-square&labelColor=0D1117" />
+
+</div>
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Hack The Box Machine Creator | Designed and published the **AgentOver** and **CraftShell** lab machines |
+| Academic Research | Master's-level research in cybersecurity, Active Directory security, and AI security |
+
+</div>
 
 ---
 
 ## Certifications
 
-### eLearnSecurity / INE
-- **eCPPT** — Certified Professional Penetration Tester
-- **eCPTX** — Certified Penetration Tester eXtreme (In Progress)
+**Offensive Security**
 
-### Offensive Security
-- **OSCP** — Offensive Security Certified Professional (In Progress)
+<img src="https://img.shields.io/badge/OSCP-In%20Progress-6366F1?style=for-the-badge&logo=offsecuritycertified&logoColor=white&labelColor=0D1117" />
+
+**eLearnSecurity / INE**
+
+<img src="https://img.shields.io/badge/eCPPT-Certified-8B5CF6?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/eCPTX-In%20Progress-A855F7?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+
+---
+
+## Coding & Hacking Profiles
+
+<div align="center">
+
+<a href="https://app.hackthebox.com/profile/A1GCH">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+</a>
+<a href="https://github.com/A1GCH-afk">
+  <img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/monther-khataibeh">
+  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=A1GCH-afk&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=E4E4E7" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=A1GCH-afk&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1GCH-afk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E4E4E7" width="40%" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=A1GCH-afk&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
+
+</div>
 
 ---
 
 ## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A1GCH-afk&theme=react-dark&bg_color=0d1117&color=9a4aff&line=9a4aff&point=ffffff&area=true" alt="Activity Graph" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=A1GCH-afk&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=8B5CF6&point=6366F1" width="100%" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/A1GCH-afk/A1GCH-afk/output/github-contribution-grid-snake-dark-violet.svg" width="100%" />
+
+</div>
+
+<!--
+Generate via the platane/snk GitHub Action, output to the `output` branch:
+  - github-contribution-grid-snake.svg
+  - github-contribution-grid-snake-dark-violet.svg
+-->
 
 ---
 
 ## Current Focus
 
 ```yaml
-Learning: "Nonlinear systems, Phase Portraits & Chaos Computing applications"
-Building: "PentNote (v1.0.0) stable public release artifacts"
-Exploring: "Advanced Active Directory Evasion & Token Manipulation vectors"
-Open_To: "Advanced Penetration Testing & AI Security consultation"
+Current_Focus:
+  Learning:
+    - Advanced Active Directory attack paths and detection evasion
+    - LLM agent security and prompt injection defenses
+  Building:
+    - PentNote — local-first operator dashboard
+    - Cyber Over Corp tooling and infrastructure
+  Exploring:
+    - Hardware-level and chaos/embedded computing exploitation
+    - Fine-tuning open-weight LLMs for offensive security tasks
+  Open_To:
+    - Red Teaming consultations
+    - Advanced Penetration Testing engagements
+    - AI-Security integration projects
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:montherkhataibah@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/monther-khataibeh">
+  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/A1GCH-afk">
+  <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"The system does not fail loudly — it fails quietly, to whoever finds it first."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0D1117&height=150&section=footer" width="100%"/>
+
+</div>
