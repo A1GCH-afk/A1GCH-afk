@@ -131,7 +131,9 @@ PentNote centralizes tool output, host findings, and operator notes into a singl
 
 **eLearnSecurity / INE**
 
-<img src="https://img.shields.io/badge/eCPPT-Certified-8B5CF6?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+<a href="https://certs.ine.com/e04f4cda-5fa2-43f7-b8b3-a1adeabcbe5a#acc.Eu7AGJ12">
+  <img src="https://img.shields.io/badge/eCPPT-Certified-8B5CF6?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+</a>
 <img src="https://img.shields.io/badge/eCPTX-In%20Progress-A855F7?style=for-the-badge&logoColor=white&labelColor=0D1117" />
 
 ---
