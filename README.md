@@ -79,19 +79,6 @@
 
 ---
 
-## AI / ML & Security Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| LLM Exploitation | Advanced | Prompt injection & multi-agent trust-boundary abuse research |
-| Security Automation | Advanced | Fine-tuning Llama-family models for offensive security tasks and tool-augmented agent pipelines |
-| Active Directory Attacks | Advanced | Kerberoasting, AS-REP Roasting, Shadow Credentials, ACL & DACL abuse, delegation attacks |
-| Evasion Engineering | Advanced | AV/EDR evasion techniques, payload obfuscation, detection-aware tradecraft |
-| Adversary Emulation | Intermediate | C2 concepts, red team infrastructure design |
-| ML-Assisted Recon | Intermediate | LLM-driven attack-surface triage and reporting pipelines |
-
----
-
 ## Featured Projects
 
 <details>
