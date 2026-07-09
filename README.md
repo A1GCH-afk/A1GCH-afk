@@ -75,16 +75,6 @@
 
 <img src="https://skillicons.dev/icons?i=linux,docker,git&theme=dark" />
 
-**Security & Assessment**
-
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
-<img src="https://img.shields.io/badge/BloodHound-6366F1?style=for-the-badge&logo=graphviz&logoColor=white" />
-<img src="https://img.shields.io/badge/Certipy-8B5CF6?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/bloodyAD-A855F7?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/pywhisker-6366F1?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/WinPEAS-8B5CF6?style=for-the-badge&logoColor=white" />
-
 </div>
 
 ---
@@ -93,7 +83,7 @@
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| LLM Exploitation | Advanced | Prompt injection & multi-agent trust-boundary abuse — research surfaced in the **AgentOver** lab machine |
+| LLM Exploitation | Advanced | Prompt injection & multi-agent trust-boundary abuse research |
 | Security Automation | Advanced | Fine-tuning Llama-family models for offensive security tasks and tool-augmented agent pipelines |
 | Active Directory Attacks | Advanced | Kerberoasting, AS-REP Roasting, Shadow Credentials, ACL & DACL abuse, delegation attacks |
 | Evasion Engineering | Advanced | AV/EDR evasion techniques, payload obfuscation, detection-aware tradecraft |
@@ -119,57 +109,6 @@ PentNote centralizes tool output, host findings, and operator notes into a singl
 
 </details>
 
-<details>
-<summary><strong>AgentOver — Hack The Box Lab Machine</strong></summary>
-
-<br/>
-
-A specialized lab machine focused on **AI prompt injection** and exploitation of vulnerable, tool-augmented AI agents.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| Python, LLM agent framework, Docker | Single-host HTB lab environment | N/A — lab environment | Demonstrates prompt injection and agent trust-boundary failures | Teaches practical exploitation of AI agent attack surface | [AgentOver](https://github.com/A1GCH-afk/AgentOver) |
-
-AgentOver simulates a realistic deployment of an autonomous AI agent wired into internal tooling, and walks an operator through chaining a prompt injection foothold into full agent-privilege abuse. The machine is designed to illustrate how classic web/API vulnerabilities compound with emerging LLM-agent trust boundaries — a class of vulnerability increasingly relevant to enterprises adopting agentic AI.
-
-</details>
-
-<details>
-<summary><strong>CraftShell — Hack The Box Lab Machine</strong></summary>
-
-<br/>
-
-A realistic lab environment demonstrating **Remote Code Execution (RCE)** via a Craft CMS vulnerability chain.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| PHP, Craft CMS, Docker | Single-host HTB lab environment | N/A — lab environment | Demonstrates CVE-driven RCE and CMS plugin attack surface | Illustrates real-world CMS/plugin supply-chain exposure | [CraftShell](https://github.com/A1GCH-afk/CraftShell) |
-
-CraftShell reproduces a disclosed Craft CMS RCE vulnerability chain in a safe, containerized lab, taking an operator from unauthenticated recon through to a full remote shell. The machine emphasizes methodical CVE research and exploit adaptation over point-and-click tooling, reinforcing the underlying mechanics of the vulnerability class rather than a single scripted exploit.
-
-</details>
-
----
-
-## Experience
-
-### Co-Founder & Cybersecurity Lead — Cyber Over Corp
-**[Insert Date] – Present**
-
-Leading security architecture and the technical convergence of Cybersecurity, IoT, and AI within the organization.
-
-- Enterprise risk mitigation and threat modeling across client and internal infrastructure
-- Local-first, secure application design and architecture review
-- Red team engagement leadership and technical mentorship
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Red%20Teaming-6366F1?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Tool%20Development-8B5CF6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Secure%20Architecture-A855F7?style=flat-square&labelColor=0D1117" />
-
-</div>
-
 ---
 
 ## Achievements
@@ -178,7 +117,6 @@ Leading security architecture and the technical convergence of Cybersecurity, Io
 
 | Recognition | Details |
 |---|---|
-| Hack The Box Machine Creator | Designed and published the **AgentOver** and **CraftShell** lab machines |
 | Academic Research | Master's-level research in cybersecurity, Active Directory security, and AI security |
 
 </div>
@@ -216,29 +154,6 @@ Leading security architecture and the technical convergence of Cybersecurity, Io
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=A1GCH-afk&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=E4E4E7" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=A1GCH-afk&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1GCH-afk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E4E4E7" width="40%" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=A1GCH-afk&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
@@ -256,12 +171,6 @@ Leading security architecture and the technical convergence of Cybersecurity, Io
 <img src="https://raw.githubusercontent.com/A1GCH-afk/A1GCH-afk/output/github-contribution-grid-snake-dark-violet.svg" width="100%" />
 
 </div>
-
-<!--
-Generate via the platane/snk GitHub Action, output to the `output` branch:
-  - github-contribution-grid-snake.svg
-  - github-contribution-grid-snake-dark-violet.svg
--->
 
 ---
 
