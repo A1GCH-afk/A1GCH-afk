@@ -163,27 +163,6 @@ PentNote centralizes tool output, host findings, and operator notes into a singl
 
 ---
 
-## Current Focus
-
-```yaml
-Current_Focus:
-  Learning:
-    - Advanced Active Directory attack paths and detection evasion
-    - LLM agent security and prompt injection defenses
-  Building:
-    - PentNote — local-first operator dashboard
-    - Cyber Over Corp tooling and infrastructure
-  Exploring:
-    - Hardware-level and chaos/embedded computing exploitation
-    - Fine-tuning open-weight LLMs for offensive security tasks
-  Open_To:
-    - Red Teaming consultations
-    - Advanced Penetration Testing engagements
-    - AI-Security integration projects
-```
-
----
-
 ## Connect
 
 <div align="center">
