@@ -163,6 +163,18 @@ PentNote centralizes tool output, host findings, and operator notes into a singl
 
 ---
 
+## Current Focus
+
+```yaml
+Current_Focus:
+  Learning: "Nonlinear systems, Phase Portraits & Chaos Computing applications"
+  Building: "PentNote (v1.0.0) stable public release artifacts"
+  Exploring: "Advanced Active Directory Evasion & Token Manipulation vectors"
+  Open_To: "Advanced Penetration Testing & AI Security consultation"
+```
+
+---
+
 ## Connect
 
 <div align="center">
