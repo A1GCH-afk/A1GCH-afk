@@ -40,7 +40,6 @@
 
 - **Offensive Security Engineering** — full attack-chain operations spanning external recon, initial access, Active Directory lateral movement (Kerberoasting, AS-REP Roasting, Shadow Credentials, ACL abuse), and post-exploitation evasion against modern EDR/AV stacks.
 - **Cybersecurity Tool Development** — designing local-first, low-dependency security tooling built to run fully offline in operator environments, with zero telemetry and no cloud lock-in.
-- **AI / ML Security** — fine-tuning LLMs for offensive security workflows, researching prompt injection and multi-agent trust-boundary failures, and building AI-assisted triage pipelines for red team operations.
 - **Infrastructure & Systems** — Linux-first daily driver, with a standing interest in hardware-level exploitation and chaos/embedded computing.
 
 **Open to:**
