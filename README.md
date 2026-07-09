@@ -105,35 +105,6 @@ A production-ready, lightweight command-line tool and local-first web dashboard 
 - Fast, secure local SQLite state persistence, maximizing operation opsec.
 </details>
 
-<details>
-<summary><b>AgentOver — HTB Lab Machine (AI Prompt Injection)</b></summary>
-<br>
-
-A custom-designed Hack The Box laboratory environment centered around attacking and exploiting vulnerabilities within AI autonomous agents.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Docker, Python, Llama | Vulnerable Lab | Isolated containerized execution | Exploit simulation | Educational / Vulnerability research | [Internal Link](#) |
-
-### Technical Implementation
-- Simulates an enterprise network infrastructure that relies heavily on an LLM-driven internal agent.
-- Paths involve indirect prompt injection to bypass guardrails and gain initial remote access.
-</details>
-
-<details>
-<summary><b>CraftShell — HTB Lab Machine (CMS Exploitation)</b></summary>
-<br>
-
-A realistic Hack The Box laboratory environment mapping real-world enterprise vectors, featuring remote code execution (RCE) via custom CMS configuration flaws.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Craft CMS, Linux, Docker | Vulnerable Lab | High availability lab container | Post-exploit scenario | Defensive mitigation learning | [Internal Link](#) |
-
-### Technical Implementation
-- Implements layered web-app mechanics requiring deep initial enumeration followed by a chained privilege escalation path to root.
-</details>
-
 ---
 
 ## Certifications
@@ -147,39 +118,10 @@ A realistic Hack The Box laboratory environment mapping real-world enterprise ve
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A1GCH-afk&show_icons=true&theme=darkviolet&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A1GCH-afk&theme=darkviolet" alt="GitHub Streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1GCH-afk&layout=compact&theme=darkviolet&hide=html,css" alt="Top Languages" height="140" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=A1GCH-afk&theme=darkviolet&column=7" alt="Trophies" />
-</p>
-
----
-
 ## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=A1GCH-afk&theme=react-dark&bg_color=0d1117&color=9a4aff&line=9a4aff&point=ffffff&area=true" alt="Activity Graph" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A1GCH-afk/A1GCH-afk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
