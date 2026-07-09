@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366F1,100:8B5CF6&height=280&section=header&text=Monther%20Khataibeh&fontSize=60&fontColor=E4E4E7&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Engineer%20%7C%20Red%20Teamer%20%7C%20Exploit%20Developer&descAlignY=55&descSize=18&descColor=C4B5FD" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Master+in+Cybersecurity;Red+Teamer+%26+Exploit+Developer;AI+Security+Engineer;Building+Cyber+Over+Corp" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Master+in+Cybersecurity;Red+Teamer+%26+Exploit+Developer;AI+Security+Engineer" alt="Typing SVG" />
 
 <br/>
 
@@ -11,9 +11,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/A1GCH-afk">
-  <img src="https://img.shields.io/badge/Cyber%20Over%20Corp-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7&labelColor=0D1117&color=1a1b27" />
-</a>
 <a href="https://linkedin.com/in/monther-khataibeh">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
