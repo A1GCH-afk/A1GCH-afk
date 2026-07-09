@@ -85,13 +85,13 @@
 
 <br/>
 
-A production-ready, lightweight command-line and local-first web dashboard for security operators, built with **FastAPI**, **HTMX**, and **Tailwind CSS**.
+A Python CLI for authorized security assessments that turns raw pentest tool output into a structured, MITRE ATT&CK-mapped Obsidian vault — attack chains, credential tracking, and risk-scored client reports, instead of a pile of terminal scrollback.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Python, FastAPI, HTMX, Tailwind CSS, SQLite | Single-operator to small-team engagements | Sub-100ms local dashboard rendering, zero external network calls | Local-first, zero telemetry, atomic note writes | Consolidates parser output and engagement notes into one operator-facing surface | [PentNote](https://github.com/A1GCH-afk/PentNote) |
+| Python, Click, Pydantic, Jinja2, Rich, lxml — optional NetworkX, Ollama, GitPython | Single-operator to team engagements with Git-synced vaults | 25 built-in parsers, 136 ATT&CK techniques mapped (~69% Enterprise coverage) | Local-only Ghost Log LLM via Ollama — shell history never leaves the host; operator secrets are kept out of Git automatically | Converts scanner/AD/web/C2/post-exploitation output into MITRE-tagged notes, detected attack chains, and D3FEND-backed remediation reports | [PentNote](https://github.com/A1GCH-afk/PentNote) · [PyPI](https://pypi.org/project/pentnote/) |
 
-PentNote centralizes tool output, host findings, and operator notes into a single local dashboard, avoiding the sprawl of scattered text files and screenshots typical of manual engagement note-taking. It is built with a strict no-Node.js, low-dependency philosophy — HTMX and Tailwind are served statically, and the backend runs entirely on a local FastAPI instance with no external service dependencies, making it suitable for isolated or air-gapped assessment environments.
+PentNote converts scanner, Active Directory, web, C2, and post-exploitation tool output into an engagement vault — Obsidian Markdown notes, MITRE ATT&CK context, D3FEND countermeasures, timelines, Navigator layers, and BloodHound Canvas graphs — via 25 built-in parsers (Nmap, NetExec, Impacket, BloodHound, Certipy, Mimikatz, Gobuster, Nuclei, sqlmap, WinPEAS, LinPEAS, Sliver, Havoc, and more). Ghost Log is an optional local-only assistant: it watches shell history, redacts secrets, and uses a local Ollama model to extract credentials, findings, and timeline entries — no shell history ever leaves the host. Reports are risk-scored and client-facing, pairing top findings with a remediation roadmap and D3FEND defenses.
 
 </details>
 
